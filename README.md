@@ -38,12 +38,15 @@ Backend API: https://mis-financial-dashboard.onrender.com
 
 
 ### Charts
+<img width="2850" height="1516" alt="Screenshot 2026-07-14 233511" src="https://github.com/user-attachments/assets/07af9116-e8f2-4a24-86c0-ebcee0e8cb65" />
 
-![Charts](screenshots/charts.png)
+<img width="2850" height="1520" alt="Screenshot 2026-07-14 233523" src="https://github.com/user-attachments/assets/d7eeb4f4-eba2-4935-98a0-56290a87e1b1" />
+
 
 ### AI Insights
 
-![AI Insights](screenshots/ai-insights.png)
+<img width="2850" height="1520" alt="Screenshot 2026-07-14 233523" src="https://github.com/user-attachments/assets/7962e911-82e2-4080-8137-f4b44d892cf4" />
+
 
 ---
 
