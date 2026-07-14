@@ -2,13 +2,13 @@ const express = require("express");
 const cors = require("cors");
 require("dotenv").config();
 
-const connectDB = require("./config/db");
+//const connectDB = require("./config/db");
 const dashboardRoutes = require("./routes/dashboardRoutes");
 const uploadRoutes = require("./routes/uploadRoutes");
 const app = express();
 
 // Connect DB FIRST
-connectDB();
+//connectDB();
 
 // Middleware
 app.use(cors());
