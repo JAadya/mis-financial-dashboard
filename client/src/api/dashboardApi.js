@@ -1,9 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-
-    baseURL: "http://localhost:5000/api"
-
+  baseURL: "https://mis-financial-dashboard.onrender.com/api",
 });
 
 export default API;
