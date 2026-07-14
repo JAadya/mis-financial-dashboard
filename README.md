@@ -8,7 +8,7 @@ Built using React, Node.js, Express, and Google Gemini AI, the platform enables 
 
 ## 🚀 Live Demo
 
-Frontend: https://YOUR-VERCEL-LINK.vercel.app
+Frontend: https://mis-financial-dashboard.vercel.app/
 
 Backend API: https://mis-financial-dashboard.onrender.com
 
@@ -29,11 +29,13 @@ Backend API: https://mis-financial-dashboard.onrender.com
 
 ## 📸 Dashboard Preview
 
-> Add screenshots here after deployment.
+
+
 
 ### Dashboard
+<img width="2846" height="1536" alt="Screenshot 2026-07-14 233457" src="https://github.com/user-attachments/assets/608c44eb-fe63-4855-870f-5a4841e417fa" />
 
-![Dashboard](screenshots/dashboard.png)
+
 
 ### Charts
 
