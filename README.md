@@ -217,7 +217,7 @@ Google Gemini analyzes uploaded financial data and generates:
 
 GitHub: https://github.com/JAadya
 
-LinkedIn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/jaadya/)
+LinkedIn: [AADYA_JHA](https://www.linkedin.com/in/jaadya/)
 
 ---
 
