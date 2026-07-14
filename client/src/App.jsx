@@ -8,7 +8,7 @@ import ExpensePieChart from "./components/ExpensePieChart";
 import ProfitLossTable from "./components/ProfitLossTable";
 import AIInsights from "./components/AIInsights";
 import Navbar from "./components/Navbar";
-import Sidebar from "./components/Sidebar";
+import Sidebar from "./components/sidebar";
 import KPIcard from "./components/KPIcard";
 import UploadPage from "./components/UploadPage";
 import ProfitSummary from "./components/ProfitSummary";
