@@ -14,6 +14,16 @@ Backend API: https://mis-financial-dashboard.onrender.com
 
 ---
 
+## 🚀 Key Highlights
+
+- Built a full-stack Financial MIS dashboard using React and Node.js.
+- Automated Excel-based financial reporting.
+- Integrated Google Gemini AI for financial insights.
+- Interactive KPI and chart visualizations.
+- Deployed on Vercel and Render.
+  
+---
+
 ## ✨ Features
 
 - 📂 Upload financial statements (Excel)
@@ -207,7 +217,7 @@ Google Gemini analyzes uploaded financial data and generates:
 
 GitHub: https://github.com/JAadya
 
-LinkedIn: YOUR_LINKEDIN_PROFILE
+LinkedIn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/jaadya/)
 
 ---
 
